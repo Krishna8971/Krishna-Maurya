@@ -9,7 +9,7 @@
 <h2 align="center" style="color: #00FFAB;">👋 Hey there! I'm Krishna</h2>
 
 <p align="center">
-  <em>Creative Designer | Web Developer | Video Editor | CA Aspirant</em>
+  <em>Creative Designer | Web Developer | Video Editor </em>
 </p>
 
 ---
@@ -63,3 +63,6 @@ Find me on [LinkedIn](https://linkedin.com), [Instagram](https://instagram.com),
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Krishna-%2300FFAB?style=for-the-badge" alt="Made by Krishna" />
 </p>
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=tokyonight)
+
