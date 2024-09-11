@@ -9,12 +9,12 @@
 <h2 align="center" style="color: #00FFAB;">👋 Hey there! I'm Krishna</h2>
 
 <p align="center">
-  <em>Creative Designer | Web Developer | Video Editor </em>
+  <em>Creative Designer | Web Developer | Video Editor | CA Aspirant</em>
 </p>
 
 ---
 
-<h3 style="color: #00FFAB;">🔗 Quick Navigation</h3>
+<h3 align="center" style="color: #00FFAB;">🔗 Quick Navigation</h3>
 
 <div align="center">
   <a href="#profile">
@@ -32,6 +32,18 @@
   <a href="#projects">
     <img src="https://img.shields.io/badge/Projects-%2300FFAB?style=for-the-badge&logo=github" alt="Projects" />
   </a>
+</div>
+
+---
+
+<h3 align="center" style="color: #00FFAB;">🚀 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=tokyonight" alt="Krishna's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -54,15 +66,16 @@ Check out my exciting projects below!
 
 ---
 
-<h3 id="socials" style="color: #00FFAB;">📫 Contact</h3>
+<h3 id="socials" style="color: #00FFAB;">📫 Contact & Socials</h3>
 
-Find me on [LinkedIn](https://linkedin.com), [Instagram](https://instagram.com), and more through my [Socials](socials.html) page!
+Connect with me:
+
+- [LinkedIn](https://linkedin.com)
+- [Instagram](https://instagram.com)
+- [Twitter](https://twitter.com)
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Krishna-%2300FFAB?style=for-the-badge" alt="Made by Krishna" />
 </p>
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=tokyonight)
-
